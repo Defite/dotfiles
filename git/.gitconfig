@@ -1,0 +1,14 @@
+[user]
+  name = Dude Lebowski
+  email = dude.lebowski@itsme.com
+[push]
+  default = current
+[color]
+  ui = true
+[alias]
+  cp = cherry-pick
+  st = status -s
+  cl = clone
+  ci = commit
+  co = checkout
+  br = branch
