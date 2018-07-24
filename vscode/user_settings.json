@@ -19,5 +19,8 @@
         "editor.formatOnSave": false
     },
     "eslint.autoFixOnSave": true,
-    "eslint.alwaysShowStatus": true
+    "eslint.alwaysShowStatus": true,
+    "nightswitch.dayTheme": "Quiet Light",
+    "nightswitch.nightTheme": "Panda Syntax",
+    "nightswitch.location": "(55.751244,37.618423)",
 }
