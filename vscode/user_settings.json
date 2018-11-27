@@ -1,7 +1,5 @@
 {
-    "window.title": "${activeEditorLong}${separator}${rootName}",
     "window.zoomLevel": 0,
-    "workbench.colorTheme": "Visual Studio Light",
     "gitlens.advanced.messages": {
         "suppressCommitHasNoPreviousCommitWarning": false,
         "suppressCommitNotFoundWarning": false,
@@ -20,7 +18,14 @@
     },
     "eslint.autoFixOnSave": true,
     "eslint.alwaysShowStatus": true,
-    "nightswitch.dayTheme": "Quiet Light",
+    "explorer.confirmDragAndDrop": false,
+    "window.title": "${activeEditorLong}${separator}${rootName}",
+    "nightswitch.dayTheme": "GitHub Plus",
     "nightswitch.nightTheme": "Panda Syntax",
     "nightswitch.location": "(55.751244,37.618423)",
+    "workbench.colorTheme": "GitHub Plus",
+    "breadcrumbs.enabled": true,
+    "nightswitch.themeDay": "GitHub Plus",
+    "nightswitch.themeNight": "Panda Syntax",
+    "javascript.updateImportsOnFileMove.enabled": "always",
 }
