@@ -1,4 +1,4 @@
-{
+{a
     "window.zoomLevel": 0,
     "gitlens.advanced.messages": {
         "suppressCommitHasNoPreviousCommitWarning": false,
@@ -28,4 +28,8 @@
     "nightswitch.themeDay": "GitHub Plus",
     "nightswitch.themeNight": "Panda Syntax",
     "javascript.updateImportsOnFileMove.enabled": "always",
+    "gitlens.views.fileHistory.enabled": true,
+    "gitlens.views.lineHistory.enabled": true,
+    "git.autofetch": true,
+    "editor.renderWhitespace": "all"
 }

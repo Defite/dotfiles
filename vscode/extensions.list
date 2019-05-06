@@ -1,4 +1,5 @@
 alefragnani.Bookmarks
+be5invis.vscode-custom-css
 dbaeumer.vscode-eslint
 donjayamanne.githistory
 eamodio.gitlens
@@ -6,10 +7,15 @@ esbenp.prettier-vscode
 fabiospampinato.vscode-todo-plus
 gharveymn.nightswitch-lite
 GitHub.vscode-pull-request-github
+jsynowiec.vscode-insertdatestring
 liximomo.sftp
+mkaufman.HTMLHint
 ms-python.python
+ms-vscode.vscode-typescript-tslint-plugin
 octref.vetur
 PeterJausovec.vscode-docker
+pflannery.vscode-versionlens
+RobbOwen.synthwave-vscode
 sysoev.language-stylus
 thenikso.github-plus-theme
 tinkertrain.theme-panda
