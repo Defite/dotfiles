@@ -12,3 +12,4 @@
   ci = commit
   co = checkout
   br = branch
+  conflicts = diff --name-only --diff-filter=U
