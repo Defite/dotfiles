@@ -13,3 +13,4 @@
   co = checkout
   br = branch
   conflicts = diff --name-only --diff-filter=U
+  dc = git branch --merged | egrep -v "(^\*|master|main|devel)" | xargs git branch -d
